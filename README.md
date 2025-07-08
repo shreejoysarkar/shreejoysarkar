@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shreejoy Sarkar</h1>
-<h3 align="center">I'm a Computer Science & Data Analytics graduate from IIT Patna, deeply passionate about building intelligent systems and solving real-world problems using Machine Learning, Deep Learning, and Generative AI.</h3>
+<h3 align="center">Exploring Generative AI, building real-world ML projects, and always learning something new.</h3>
+
+- 📝 I regularly write articles on [https://medium.com/@sarkarshreejoy30](https://medium.com/@sarkarshreejoy30)
 
 - 📫 How to reach me **shreejoy_2312res622@iitp.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shreejoy-sarkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shreejoy-sarkar/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
