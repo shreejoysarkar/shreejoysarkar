@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreejoy Sarkar</h1>
-<h3 align="center">I'm a Computer Science & Data Analytics graduate from IIT Patna, deeply passionate about building intelligent systems and solving real-world problems using **Machine Learning**, **Deep Learning**, and **Generative AI**.</h3>
+<h3 align="center">I'm a Computer Science & Data Analytics graduate from IIT Patna, deeply passionate about building intelligent systems and solving real-world problems using Machine Learning, Deep Learning, and Generative AI.</h3>
 
 - 📫 How to reach me **shreejoy_2312res622@iitp.ac.in**
 
